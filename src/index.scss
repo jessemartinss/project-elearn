@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@200;300;600;900&display=swap');
+@font-face {
+  font-family: 'Mazius Display';
+  src: url('./assets/fonts/Mazius\ Display\ Regular.otf');
+}
+
+$font-inter:'Inter', sans-serif;
+$font-mazius-display:'Mazius Display';
+
+$color-neutral-black:#0A1927;
+$color-primary-green:#1D5564;
+$color-neutral-sky-blue:#C1D3DF;
+$color-accent-blue:#405A73;
+$color-accent-orange:#F06F3C;
+$color-neutral-white:#FFFFFF;
+
+* {
+  font-family: $font-inter;
+}
